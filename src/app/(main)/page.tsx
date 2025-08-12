@@ -1,8 +1,11 @@
+import Container from '@/components/shared/Container';
 import React from 'react'
 
 const Homepage = () => {
   return (
-    <div>Homepage</div>
+    <div>
+      <Container>Homepage</Container>
+    </div>
   )
 }
 
